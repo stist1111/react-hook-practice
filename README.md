@@ -1,1 +1,1 @@
-생활코딩 React Hook 실습
+생활코딩 React Hook (useState, useEffect) 실습
